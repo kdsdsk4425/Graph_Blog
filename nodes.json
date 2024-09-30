@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "label": "게시글 제목1",
-    "url": "https://www.notion.so/yourpage1",
+    "label": "9.28",
+    "url": "https://campanada.notion.site/9-28-10f9be492d0880dea4e0ebb33248b804?pvs=4",
     "color": {"background": "red", "border": "darkred"},
     "size": 25
   },
   {
     "id": 2,
-    "label": "게시글 제목2",
-    "url": "https://www.notion.so/yourpage2",
+    "label": "9.29",
+    "url": "https://campanada.notion.site/9-29-1109be492d0880dca117c98afe040810?pvs=4",
     "color": {"background": "green", "border": "darkgreen"},
     "size": 20
   },
   {
     "id": 3,
-    "label": "게시글 제목3",
-    "url": "https://www.notion.so/yourpage3",
+    "label": "9.30",
+    "url": "https://campanada.notion.site/9-30-1119be492d0880d883bed2723aa6dbc1?pvs=4",
     "color": {"background": "blue", "border": "darkblue"},
     "size": 15
   }
