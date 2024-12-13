@@ -28,7 +28,7 @@ fetch('nodes.json')
             }
           },
           edges: {
-            width: 2,
+            width: 3,
             color: '#ccc'
           },
           interaction: {

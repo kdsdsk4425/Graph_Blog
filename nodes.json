@@ -1,23 +1,58 @@
 [
   {
     "id": 1,
-    "label": "9.28",
+    "label": "9/28",
     "url": "https://campanada.notion.site/9-28-10f9be492d0880dea4e0ebb33248b804?pvs=4",
-    "color": {"background": "red", "border": "darkred"},
-    "size": 25
+    "color": {"background": "red", "border": "black"},
+    "size": 30
   },
   {
     "id": 2,
-    "label": "9.29",
+    "label": "9/29",
     "url": "https://campanada.notion.site/9-29-1109be492d0880dca117c98afe040810?pvs=4",
-    "color": {"background": "green", "border": "darkgreen"},
+    "color": {"background": "green", "border": "black"},
     "size": 20
   },
   {
     "id": 3,
-    "label": "9.30",
+    "label": "9/30",
     "url": "https://campanada.notion.site/9-30-1119be492d0880d883bed2723aa6dbc1?pvs=4",
-    "color": {"background": "blue", "border": "darkblue"},
+    "color": {"background": "yellow", "border": "black"},
+    "size": 15
+  },
+  {
+    "id": 4,
+    "label": "클론코딩 D-7 11/2",
+    "url": "https://campanada.notion.site/D-7-1529be492d0880d1beecf9fbf569a29c?pvs=4",
+    "color": {"background": "orange", "border": "black"},
+    "size": 15
+  },
+  {
+    "id": 5,
+    "label": "회장님과의 대화 11/13",
+    "url": "https://campanada.notion.site/D0-13c9be492d08807580c6f58b09dce7c6?pvs=4",
+    "color": {"background": "orange", "border": "black"},
+    "size": 15
+  },
+  {
+    "id": 6,
+    "label": "Graph-Blog 개설 12/5",
+    "url": "https://campanada.notion.site/Graph-Blog-1529be492d0880a4aadbf697cd73f5ed?pvs=4",
+    "color": {"background": "orange", "border": "black"},
+    "size": 15
+  },
+  {
+    "id": 7,
+    "label": "12월",
+    "url": "https://campanada.notion.site/12-1529be492d0880acaa9be66b85d1bc8d?pvs=4",
+    "color": {"background": "skyblue", "border": "black"},
     "size": 15
   }
+
+
+
+
+
+
 ]
+
